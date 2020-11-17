@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5070" started-at="2020-11-17T01:48:36Z" finished-at="2020-11-17T01:48:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5070" started-at="2020-11-17T01:48:36Z" finished-at="2020-11-17T01:48:41Z">
+      <class name="fakeAPITestcases.Put_Request">
+        <test-method status="PASS" signature="postData()[pri:0, instance:fakeAPITestcases.Put_Request@62bd765]" name="postData" is-config="true" duration-ms="0" started-at="2020-11-17T01:48:40Z" finished-at="2020-11-17T01:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="postUser()[pri:0, instance:fakeAPITestcases.Put_Request@62bd765]" name="postUser" duration-ms="173" started-at="2020-11-17T01:48:40Z" finished-at="2020-11-17T01:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUser -->
+      </class> <!-- fakeAPITestcases.Put_Request -->
+      <class name="headersandcookies.ValidateHeaders">
+        <test-method status="PASS" signature="testHeaders()[pri:0, instance:headersandcookies.ValidateHeaders@551bdc27]" name="testHeaders" duration-ms="168" started-at="2020-11-17T01:48:41Z" finished-at="2020-11-17T01:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaders -->
+      </class> <!-- headersandcookies.ValidateHeaders -->
+      <class name="fakeAPITestcases.Delete_Request">
+        <test-method status="PASS" signature="getSingleUserData()[pri:0, instance:fakeAPITestcases.Delete_Request@23a5fd2]" name="getSingleUserData" duration-ms="87" started-at="2020-11-17T01:48:40Z" finished-at="2020-11-17T01:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserData -->
+      </class> <!-- fakeAPITestcases.Delete_Request -->
+      <class name="fakeAPITestcases.Get_Request">
+        <test-method status="PASS" signature="getSingleUserData()[pri:0, instance:fakeAPITestcases.Get_Request@19dc67c2]" name="getSingleUserData" duration-ms="3805" started-at="2020-11-17T01:48:36Z" finished-at="2020-11-17T01:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserData -->
+      </class> <!-- fakeAPITestcases.Get_Request -->
+      <class name="fakeAPITestcases.Post_Request">
+        <test-method status="PASS" signature="postData()[pri:0, instance:fakeAPITestcases.Post_Request@221af3c0]" name="postData" is-config="true" duration-ms="1" started-at="2020-11-17T01:48:40Z" finished-at="2020-11-17T01:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="postUser()[pri:0, instance:fakeAPITestcases.Post_Request@221af3c0]" name="postUser" duration-ms="659" started-at="2020-11-17T01:48:40Z" finished-at="2020-11-17T01:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUser -->
+      </class> <!-- fakeAPITestcases.Post_Request -->
+      <class name="headersandcookies.ValidateCookies">
+        <test-method status="PASS" signature="testCookies()[pri:0, instance:headersandcookies.ValidateCookies@dd3b207]" name="testCookies" duration-ms="137" started-at="2020-11-17T01:48:41Z" finished-at="2020-11-17T01:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCookies -->
+      </class> <!-- headersandcookies.ValidateCookies -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

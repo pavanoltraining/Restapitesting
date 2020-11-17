@@ -1,0 +1,11 @@
+responsevalidations\JSONValidations.class
+fakeAPITestcases\Put_Request.class
+headersandcookies\Authentications.class
+fakeAPITestcases\Get_Request.class
+videogameapi\VideoGameAPITests.class
+fakeAPITestcases\Delete_Request.class
+responsevalidations\XMLValidations.class
+headersandcookies\ValidateCookies.class
+headersandcookies\ValidateHeaders.class
+fakeAPITestcases\Post_Request.class
+files\FileUploadandDownload.class

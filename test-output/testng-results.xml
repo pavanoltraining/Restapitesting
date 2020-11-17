@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4472" started-at="2020-11-16T07:19:04 IST" finished-at="2020-11-16T07:19:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4472" started-at="2020-11-16T07:19:04 IST" finished-at="2020-11-16T07:19:08 IST">
+      <class name="files.FileUploadandDownload">
+        <test-method status="PASS" signature="testSingleFileUpload()[pri:1, instance:files.FileUploadandDownload@694e1548]" name="testSingleFileUpload" duration-ms="3806" started-at="2020-11-16T07:19:04 IST" finished-at="2020-11-16T07:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleFileUpload -->
+        <test-method status="PASS" signature="testMultipleFilesUpload()[pri:2, instance:files.FileUploadandDownload@694e1548]" name="testMultipleFilesUpload" duration-ms="538" started-at="2020-11-16T07:19:07 IST" finished-at="2020-11-16T07:19:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleFilesUpload -->
+        <test-method status="PASS" signature="testFileDownload()[pri:3, instance:files.FileUploadandDownload@694e1548]" name="testFileDownload" duration-ms="47" started-at="2020-11-16T07:19:08 IST" finished-at="2020-11-16T07:19:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileDownload -->
+      </class> <!-- files.FileUploadandDownload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
